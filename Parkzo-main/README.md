@@ -1,4 +1,5 @@
-# Parkzo
+# Parkzo app
+
 
 An IOT project that takes care of the Parking system in any mall. 
 
